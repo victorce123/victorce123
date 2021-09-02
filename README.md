@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorce123
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning progamming for data science with python
+- 🌱 I’m currently learning programming for data science with python
 - 💞️ I’m looking to collaborate on data science and machine learning projects
 - 📫 You can reach on victor2dce@gmail.com 
 
